@@ -4,7 +4,7 @@
   <b>Database Developer • Data Analyst • Business Writer</b>
 </p>
 
-<p align="center">
+<p align="">
   I work with data, databases, and documentation to build reliable solutions and turn complex information into clear, meaningful insights.
 </p>
 
