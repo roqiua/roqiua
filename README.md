@@ -57,8 +57,8 @@ I enjoy combining technical problem-solving with analytical thinking and continu
 
 My latest projects, experiments, and learning projects are available on my GitHub profile.
 
-<p align="center">
-  <a href="https://github.com/roqiua">
+<p align="">
+  <a href="https://github.com/roqiua/sales-data-analytics">
     <img src="https://img.shields.io/badge/Explore%20my%20latest%20work-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -67,11 +67,12 @@ My latest projects, experiments, and learning projects are available on my GitHu
 
 ### 📚 Currently Learning
 
-* Advanced SQL Server & Database Development
-* Data Analysis and Visualization
-* Power BI and DAX
-* Python for Data Analysis
-* Continuously expanding my software development skills
+- Advanced SQL Server & Database Development
+- Data Analysis and Visualization
+- Power BI and DAX
+- Python for Data Analysis using Pandas, NumPy, and Matplotlib
+- Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization
+- Continuously expanding my software development skills
 
 ---
 
