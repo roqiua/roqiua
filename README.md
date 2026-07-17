@@ -78,7 +78,7 @@ My latest projects, experiments, and learning projects are available on my GitHu
 
 ### 🤝 Let's Connect
 
-<p align="center">
+<p align="">
   <a href="https://github.com/roqiua">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -87,6 +87,6 @@ My latest projects, experiments, and learning projects are available on my GitHu
   </a>
 </p>
 
-<p align="center">
+<p align="">
   <i>Learning continuously. Building thoughtfully. Growing every day.</i>
 </p>
