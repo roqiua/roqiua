@@ -63,10 +63,6 @@ My experience combines database development with an understanding of business pr
 
 I enjoy solving data-related problems, designing reliable data workflows, and continuously learning new technologies.
 
-### 🚀 Projects
-
-- **Retail Data Warehouse:** Building a staging layer using SQL Server and SSIS, with full-refresh loading, reusable stored procedures, and ETL execution logging.
-- **Sales Data Warehouse:** Implemented a Medallion Architecture using SQL Server, with Bronze, Silver, and Gold layers, data transformations, and a star-schema-based data mart.
 
 ### 📚 Currently Learning
 
