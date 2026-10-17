@@ -1,4 +1,5 @@
-# Hi, I'm Roqiua Mohammad 👋
+<h1 align="center">Hi, I'm Roqiua Mohammad 👋</h1>
+
 
 <p align="center">
   <b>Database Developer • Aspiring Data Engineer • Data Analyst</b>
